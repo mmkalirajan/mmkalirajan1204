@@ -12,7 +12,7 @@ Project will require authentication like password or username, this is a good se
 
 project will used in this forms are signup,signin and contactform.
 
-My project first run a signup.php page.
+project run a first file is index.php page.
 
-First user account created using signup page after signin the user account.
+First user account create after signin the user account.
 
